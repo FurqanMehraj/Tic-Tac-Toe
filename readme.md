@@ -3,8 +3,7 @@
 
 > This is a Tic Tac Toe App. A board game that I used to play with when I was a little boy. I was inspired to build this app to test my Javascript Skills. I was so happy that I was able to make one. 
 
-[View it live from your browser.](http://bit.ly/aimanski-js20-tictactoe) Deployed with Firebase through ReactJS<br>
-[Watch Short Video Clip](https://www.youtube.com/watch?v=f9uBMorXXCg&feature=youtu.be) <br>
+
 
 <div float="left">
   <a href="https://www.youtube.com/watch?v=f9uBMorXXCg&feature=youtu.be">
