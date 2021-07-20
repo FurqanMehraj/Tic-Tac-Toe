@@ -16,10 +16,6 @@
   * How to create a tic tac toe AI opponent. (In this app the AI is not design as super difficult.)
   * How to create an app using Functional Programming. 
 
-  > References:
-  * [Arrays](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array)
-  * [Tic Tac Toe Game Concept](https://en.wikipedia.org/wiki/Tic-tac-toe)
-
 ## Installation
 
 Download the repo with:
